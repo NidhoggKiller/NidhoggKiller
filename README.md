@@ -1,4 +1,6 @@
-### Hi there 👋
+## Introduction
+Hi! I like openSW and i care for the openSW qustion,like [Bug] 
+Now, I'm studen in the YU universety.I'm a junior in the computer Engineering Department
 
 <!--
 **NidhoggKiller/NidhoggKiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
